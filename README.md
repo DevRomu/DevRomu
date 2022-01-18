@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<DevRomu>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<DevRomu>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Rhomill's GitHub stats](https://github-readme-stats.vercel.app/api?username=<DevRomu>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
