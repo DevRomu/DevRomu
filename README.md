@@ -2,7 +2,7 @@
 ---
 🧰 Toolbox
 ---
-<img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"/><img src= "https://worldvectorlogo.com/logo/visual-studio-code-1" alt="VS Code" width="50" height="50"/>
+<img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"/><img src= "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/><img src= "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Studio" width="50" height="50"/>
 ---
 
 ## &#x1f4c8; My Progress
