@@ -3,6 +3,8 @@
 Hi, my name is Rhomill, I'm currently working on getting my diploma in Business Information Techonlogy, with Red River College, I will be regularly updating my github as I progress through my college program, stay tuned!
 
 ---
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DevRomu)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 🧰 My Toolbox
 
