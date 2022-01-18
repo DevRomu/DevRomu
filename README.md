@@ -1,4 +1,4 @@
-### Welcome Adventuerer! 👋
+### Welcome Adventurer! 👋
 
 ## &#x1f4c8; My Progress
 
