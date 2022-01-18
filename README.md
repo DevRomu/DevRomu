@@ -1,6 +1,6 @@
 ### Welcome Adventurer! 👋
 
-Hi, my name is Rhomill I was bitten by a radioactive coder bug, and for the next 1.5 years I'll be coding and becoming a programmer and data analyist. I'm pretty sure you know the rest.
+Hi, my name is Rhomill I was bitten by a radioactive coder spider, and for the next 1.5 years I'll be coding and becoming a programmer and data analyist. I'm pretty sure you know the rest.
 
 
 ![Spider-verse](https://user-images.githubusercontent.com/94935792/150013615-85180a25-095e-41bb-9036-6000e237bcbc.gif)
