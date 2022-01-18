@@ -1,5 +1,12 @@
 ### Welcome Adventurer! 👋
 
+---
+
+🧰 Toolbox
+<img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"/>
+---
+
+
 ## &#x1f4c8; My Progress
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRomu&hide=java,html,css&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
