@@ -1,6 +1,6 @@
 ### Welcome Adventurer! 👋
 
-Hi, My name is Rhomill I was bitten by a radioactive coder, and for the next 1.5 years I'll be coding and becoming a programmer and data analyist. I'm pretty sure you know the rest.
+Hi, my name is Rhomill I was bitten by a radioactive coder, and for the next 1.5 years I'll be coding and becoming a programmer and data analyist. I'm pretty sure you know the rest.
 
 ---
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DevRomu)](https://github.com/anuraghazra/github-readme-stats)
