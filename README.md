@@ -1,6 +1,6 @@
 ### Welcome Adventurer! 👋
 
-Hi, my name is Rhomill, I'm currently working on getting my diploma in Business Information Techonlogy, with Red River College, I will be regularly updating my github as I progress through my college program, stay tuned!
+Hi, My name is Rhomill I was bitten by a radioactive coder, and for the next 1.5 years I'll be coding and becoming a programmer and data analyist. I'm pretty sure you know the rest.
 
 ---
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DevRomu)](https://github.com/anuraghazra/github-readme-stats)
