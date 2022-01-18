@@ -1,6 +1,6 @@
 ### Welcome Adventuerer! 👋
 
-## &#f0ffff; My Progress
+## &#x1f4c8; My Progress
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRomu&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
