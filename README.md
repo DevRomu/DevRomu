@@ -14,7 +14,7 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the 
 - 🌱 I’m currently a student in RRC BIT (TERM 2) 
 - 💞️ I’m looking to collaborate on anything that can help improve my coding journey (java and C#)
 - 📫 How to reach me via email: orinarhomill@gmail.com
-  
+- 💭 Goals: Become a programmer and get my first jdm car in the future
 ---
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DevRomu)](https://github.com/anuraghazra/github-readme-stats)
