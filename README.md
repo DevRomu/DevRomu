@@ -8,7 +8,6 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the 
 
 ---
 
-- 👋 Hi, I’m @DevRomu
 - 👀 I’m interested in programming and data analytics!
 - 🌱 I’m currently a student in RRC BIT (TERM 2) 
 - 💞️ I’m looking to collaborate on anything that can help improve my coding journey (java and C#)
