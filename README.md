@@ -4,7 +4,9 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the 
 </b></p>
 
   
-![Spider-verse](https://user-images.githubusercontent.com/94935792/150013615-85180a25-095e-41bb-9036-6000e237bcbc.gif)
+![Spider-verse](https://user-images.githubusercontent.com/94935792/150013615-85180a25-095e-41bb-9036-6000e237bcbc.gif)  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12173863288&count=1)
+
+
 
 ---
 
