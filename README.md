@@ -1,10 +1,18 @@
 ### Welcome Adventurer! 👋
 <p align = "center"><b>
 Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the next 1.5 years I'll be coding and becoming a programmer/data analyist. I'm pretty sure you know the rest.
-  </b></p>
+</b></p>
 
   
 ![Spider-verse](https://user-images.githubusercontent.com/94935792/150013615-85180a25-095e-41bb-9036-6000e237bcbc.gif)
+
+---
+
+- 👋 Hi, I’m @DevRomu
+- 👀 I’m interested in programming and data analytics!
+- 🌱 I’m currently a student in RRC BIT (TERM 2) 
+- 💞️ I’m looking to collaborate on anything that can help improve my coding journey (java and C#)
+- 📫 How to reach me via email: orinarhomill@gmail.com
   
 ---
 
