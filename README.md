@@ -3,11 +3,10 @@
 Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the next 1.5 years I'll be coding and becoming a programmer/data analyist. I'm pretty sure you know the rest.
 </b></p>
 
-  
-![Spider-verse](https://user-images.githubusercontent.com/94935792/150013615-85180a25-095e-41bb-9036-6000e237bcbc.gif)  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12173863288&count=1)
-
-
-
+<p align = "center">
+  <img src = "https://user-images.githubusercontent.com/94935792/150013615-85180a25-095e-41bb-9036-6000e237bcbc.gif"/> 
+</p>
+ 
 ---
 
 - 👀 I’m interested in programming and data analytics!
@@ -15,6 +14,10 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the 
 - 💞️ I’m looking to collaborate on anything that can help improve my coding journey (java and C#)
 - 📫 How to reach me via email: orinarhomill@gmail.com
 - 💭 Goals: Become a programmer and get my first jdm car in the future
+
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12173863288&count=1)
+
 ---
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DevRomu)](https://github.com/anuraghazra/github-readme-stats)
