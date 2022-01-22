@@ -6,6 +6,10 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the 
 <p align = "center">
   <img src = "https://user-images.githubusercontent.com/94935792/150013615-85180a25-095e-41bb-9036-6000e237bcbc.gif"/> 
 </p>
+
+<p align = "center">
+  <img src ="https://spotify-recently-played-readme.vercel.app/api?user=12173863288&count=1"/>
+</p>
  
 ---
 
@@ -15,8 +19,6 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the 
 - 📫 How to reach me via email: orinarhomill@gmail.com
 - 💭 Goals: Become a programmer and get my first jdm car in the future
 
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12173863288&count=1)
 
 ---
 
