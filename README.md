@@ -26,23 +26,24 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the 
 
 ---
 
-🧰 My Toolbox
+🧰 <b> My Toolbox </b>
 
-<img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="30" height="30"/><img src= "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/><img src= "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Studio" width="30" height="30"/><img src= "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/><img src= "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/><img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
-
+<p float = "left">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="30" height="30"/>
+<img src= "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/>
+<img src= "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Studio" width="30" height="30"/><img src= "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/>
+<img src= "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/><img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
+</p>
 
 ---
 
 ## &#x1f4c8; My Progress
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRomu&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Rhomill's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRomu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/DevRomu">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DevRomu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRomu&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
 ---
-<!--
-**DevRomu/DevRomu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
----
-
