@@ -53,6 +53,13 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the 
 <img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" 
            alt="html5" width="30" height="30"/>
 </a>
+
+</a>
+<a href = "https://www.javascript.com/">
+<img src= "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" 
+           alt="js" width="35" height="35"/>
+</a>
+
 <a href = "https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest">
 <img src= "https://cdn.discordapp.com/attachments/927948937950801970/939315493985222676/MSTest.png" 
            alt="MStest" width="35" height="35"/>
@@ -65,6 +72,7 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the 
 <img src= "https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" 
            alt=".net" width="35" height="35"/>
 </a>
+
 </p>
 
 ---
