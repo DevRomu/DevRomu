@@ -21,11 +21,13 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the 
 
 
 ---
+
 <div align="center">
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DevRomu)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
 ---
 
 🧰 <b> My Toolbox </b>
