@@ -88,6 +88,6 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the 
   
 ---
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/DevRomu)](https://git.io/streak-stats) 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevRomu&theme=tokyonight_duo&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
   
   
