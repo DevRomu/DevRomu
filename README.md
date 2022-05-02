@@ -37,6 +37,8 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the 
 <img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
 <img src= "https://cdn.discordapp.com/attachments/927948937950801970/939315493985222676/MSTest.png" alt="MStest" width="35" height="35"/>
 <img src= "https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg" alt="Dart" width="35" height="35"/>
+<a href = "https://dotnet.microsoft.com/en-us/">
+<img src= "https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".net" width="35" height="35"/></a>
 </p>
 
 ---
