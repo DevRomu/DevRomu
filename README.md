@@ -17,7 +17,7 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the 
 - 🌱 I’m currently a student in RRC BIT (TERM 4) 
 - 💞️ I’m looking to collaborate on anything that can help improve my coding journey (java and C#)
 - 📫 How to reach me via email: orinarhomill@gmail.com
-- 💭 Goals: Become a programmer 
+- 💭 Goals: Become a decent programmer and get a job after college. 
 
 ---
 
