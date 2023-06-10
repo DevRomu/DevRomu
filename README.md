@@ -77,7 +77,11 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the 
 </a>
 
 <a href = "https://nextjs.org/">
-<img src = "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="35" height="35"/>
+<img src = "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="35" height="35"/>
+</a>
+
+<a href = "https://react.dev/">
+<img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Reactjs" width="35" height="35"/>
 </a>
   
 </p>
