@@ -83,6 +83,10 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the 
 <a href = "https://react.dev/">
 <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Reactjs" width="35" height="35"/>
 </a>
+
+<a href = "https://www.mongodb.com/">
+<img src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongodb" width="35" height="35"/>
+</a>
   
 </p>
 
