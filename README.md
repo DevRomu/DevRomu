@@ -77,7 +77,7 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the 
 </a>
 
 <a href = "https://nextjs.org/">
-<img src = "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"
+<img src = "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="35" height="35"/>
 </a>
   
 </p>
