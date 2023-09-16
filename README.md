@@ -92,6 +92,10 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" alt="Ruby" width="35" height="35"/>
 </a>
 
+<a href = "https://rubyonrails.org/">
+<img src = "https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" alt="Rails" width="35" height="35"/>
+</a>
+
 <a href = "https://www.python.org/">
 <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="Python" width="35" height="35"/>
 </a>
@@ -99,6 +103,8 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the 
 <a href = "https://firebase.google.com/?gad=1">
 <img src = "https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="35" height="35"/>
 </a>
+
+
   
 </p>
 
