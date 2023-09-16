@@ -87,6 +87,14 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the 
 <a href = "https://www.mongodb.com/">
 <img src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongodb" width="35" height="35"/>
 </a>
+
+<a href = "https://www.ruby-lang.org/en/">
+<img src = "https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" alt="Ruby" width="35" height="35"/>
+</a>
+
+<a href = "https://www.python.org/">
+<img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="Python" width="35" height="35"/>
+</a>
   
 </p>
 
