@@ -1,7 +1,7 @@
 ### Welcome Adventurer! 👋
 
 ### Upcoming graduate of Business Information Technology 
-> Let me tell you, it wasn't an easy two years of studying, but you got this!
+> Let me tell you, it wasn't an easy two years of studying, and your goals will change over time. But you got this!
 ---
 <p align = "center">
   <img src = "https://media.giphy.com/media/fbHqxBmYngB1U9GTt9/giphy.gif"/> 
