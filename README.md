@@ -4,9 +4,9 @@
 > Let me tell you, it wasn't an easy two years of studying, but you got this!
 ---
 <p align = "center">
-  <img src = "https://cdn.vox-cdn.com/thumbor/emY5Su6z_KUbXNYVHNR_KmordyY=/1200x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24693275/across_spiderverse_action.gif"/> 
+  <img src = "https://media.giphy.com/media/fbHqxBmYngB1U9GTt9/giphy.gif"/> 
 </p>
-
+---
 
 <p align = "center"><b>
 Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the next 1.5 years I'll be coding and becoming a programmer/data analyist. I'm pretty sure you know the rest.
