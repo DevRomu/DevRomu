@@ -6,7 +6,6 @@
 <p align = "center">
   <img src = "https://media.giphy.com/media/fbHqxBmYngB1U9GTt9/giphy.gif"/> 
 </p>
----
 
 <p align = "center"><b>
 Hi, my name is Rhomill I was bitten by a radioactive coding spider, and for the next 1.5 years I'll be coding and becoming a programmer/data analyist. I'm pretty sure you know the rest.
