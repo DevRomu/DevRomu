@@ -3,11 +3,9 @@
 ### Upcoming graduate of Business Information Technology 
 > Let me tell you, it wasn't an easy two years of studying, but you got this!
 ---
-<div align=center>
-
-![miles]("https://cdn.vox-cdn.com/thumbor/emY5Su6z_KUbXNYVHNR_KmordyY=/1200x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24693275/across_spiderverse_action.gif")
-  
-</div>
+<p align = "center">
+  <img src = "https://cdn.vox-cdn.com/thumbor/emY5Su6z_KUbXNYVHNR_KmordyY=/1200x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24693275/across_spiderverse_action.gif"/> 
+</p>
 
 
 <p align = "center"><b>
