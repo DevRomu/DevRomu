@@ -25,7 +25,7 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, now I want t
 - 🌱 I’m currently a recent graduate from Red River College Polytechnic
 - 💞️ I’m looking to collaborate on anything that can help improve my coding journey (java and C#)
 - 📫 How to reach me via email: orinarhomill@gmail.com, <a href="https://codepen.io/DevRomu">CodePen 
-- 💭 Goals: Become a decent programmer and get a job after college. 
+- 💭 Goals: Become a decent programmer and get a job or start freelancing after college. 
 
 ---
 
