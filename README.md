@@ -22,7 +22,7 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, now I want t
 ---
 
 - 👀 I’m interested in programming && data analytics
-- 🌱 I’m currently a student in RRC BIT (TERM 5) 
+- 🌱 I’m currently a recent graduate from Red River College Polytechnic
 - 💞️ I’m looking to collaborate on anything that can help improve my coding journey (java and C#)
 - 📫 How to reach me via email: orinarhomill@gmail.com, <a href="https://codepen.io/DevRomu">CodePen 
 - 💭 Goals: Become a decent programmer and get a job after college. 
