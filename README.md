@@ -1,7 +1,9 @@
 ### Welcome Adventurer! 👋
 
 ### Alumni Business Information Technology 
-> Let me tell you, it wasn't an easy two years of studying, and your goals will change over time. But you got this!
+> Scrimba Cert (Work In Progress)
+> CompTIA Cert (Comp 1 and Comp 2 Work In Progress)
+> Advent Of Calendar (TryHackMe Cert almost done)
 ---
 <p align = "center">
   <img src = "https://media.giphy.com/media/fbHqxBmYngB1U9GTt9/giphy.gif"/> 
