@@ -1,9 +1,10 @@
 ### Welcome Adventurer! 👋
 
-### Alumni Business Information Technology 
+### Alumni Business Information Technology
+> CCNA (Work In Progress) - I'm lost on how to start but I'll figure it out
 > Scrimba Cert (Work In Progress)
-> CompTIA Cert (Comp 1 and Comp 2 Work In Progress)
-> Advent Of Calendar (TryHackMe Cert almost done)
+> CompTIA Cert (Complete)
+> Advent Of Calendar (Complete)
 ---
 <p align = "center">
   <img src = "https://media.giphy.com/media/fbHqxBmYngB1U9GTt9/giphy.gif"/> 
@@ -23,19 +24,11 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, now I want t
  
 ---
 
-- 👀 I’m interested in programming && data analytics
-- 🌱 I’m currently a recent graduate from Red River College Polytechnic
-- 💞️ I’m looking to collaborate on anything that can help improve my coding journey (java and C#)
+- 👀 I’m interested in programming & data analytics
+- 🌱 I’m currently working as an IT Help Desk - currently seeking to upgrade my career path or find another way.
+- 💞️ I’m looking to collaborate on anything that can help improve my coding journey (java and C#) OR anything IT related. :)
 - 📫 How to reach me via email: orinarhomill@gmail.com, <a href="https://codepen.io/DevRomu">CodePen 
-- 💭 Goals: Become a decent programmer and get a job or start freelancing after college. 
-
----
-
-<div align="center">
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DevRomu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+- 💭 Goals: Become a decent programmer or better IT Help Desk job. 
 
 ---
 
