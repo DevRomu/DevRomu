@@ -28,7 +28,7 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, now I want t
 - 🌱 I’m currently working as an IT Help Desk - currently seeking to upgrade my career path or find another way.
 - 💞️ I’m looking to collaborate on anything that can help improve my coding journey (java and C#) OR anything IT related. :)
 - 📫 How to reach me via email: orinarhomill@gmail.com, <a href="https://codepen.io/DevRomu">CodePen 
-- 💭 Goals: Become a decent programmer or better IT Help Desk job. 
+- 💭 Goals: Become a decent DevOps Engineer or better IT professional. 
 
 ---
 
