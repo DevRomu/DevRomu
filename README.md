@@ -11,7 +11,7 @@
 </p>
 
 <p align = "center"><b>
-Hi, my name is Rhomill I was bitten by a radioactive coding spider, now I want to become a Fullstack developer or Frontend Dev :) . I'm pretty sure you know the rest.
+Hi, my name is Rhomill I was bitten by a radioactive coding spider, now I want to become an DevOps Engineer :) . I'm pretty sure you know the rest.
 </b></p>
 
 <p align = "center">
@@ -107,7 +107,9 @@ Hi, my name is Rhomill I was bitten by a radioactive coding spider, now I want t
 <img src = "https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="35" height="35"/>
 </a>
 
-
+<a href = "https://azure.microsoft.com/en-ca">
+<img src = "https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="35" height="35"/>
+</a>
   
 </p>
 
